@@ -1,3 +1,4 @@
+print("Welcome to the Marks Calculator")
 Marks = float(input("Enter your marks: "))
 if Marks >= 75:
     print("Result = A")
