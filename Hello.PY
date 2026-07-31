@@ -8,3 +8,5 @@ print("My name is"+ Name +"and I am",Age ,"years old.") #cant concatenate string
 print(f"My name is {Name} and I am {Age} years old.")
 print(Name,Age) #comma means a space
 print("Thank you..")
+
+#+meansnospace #,meansspace
