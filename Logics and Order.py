@@ -13,4 +13,4 @@ print((not Temp > 30) and (Pressure < 1))
 
 
 #Order of operations in Python is as follows:
-#**,*,/,//,%,+,-,>,<,>=,<=,==,!=,and,or,not
+#**,*,/,//,%,+,-,>,<,>=,<=,==,!=,not, and, or
