@@ -10,3 +10,6 @@ print(Name,Age) #comma means a space
 print("Thank you..")
 
 #+meansnospace #,meansspace
+#"""
+# This means that the code below is a multi-line comment and will not be executed.
+#"""
