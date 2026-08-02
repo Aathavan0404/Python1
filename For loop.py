@@ -17,3 +17,13 @@ for M in Materials:
 Marks = [56,98,76,34]
 for A in Marks:
     print(A) 
+
+C = [1,2,3]
+P,Q,R = C
+print(P)
+
+D = ["Pen","Pencil","Eraser"]
+k,l,m = D
+print(l)
+
+
