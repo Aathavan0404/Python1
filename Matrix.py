@@ -1,4 +1,3 @@
-"""
 for row in range (1,4):
     for col in range (1,4):
         print(row*col, end = " ") #end means that the next print statement will be printed on the same line, separated by a space
@@ -10,7 +9,6 @@ for row in range(3): #3 means that the loop will run 3 times, with row taking va
     for col in range (1,4): #loop will stop at 4, so col will take values 1, 2, and 3
         print(row+col, end = " ")
     print()  
-"""
 
 
 Marks = [85, 92, 78, 96, 88]
