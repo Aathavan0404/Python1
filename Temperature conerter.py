@@ -3,6 +3,7 @@ Input = ""
 while Input != "exit": #!means that the loop will continue until the user types "exit"
     T = float(input("Enter temperature value in Celsius or Fahrenheit: "))
     Unit = input("Enter the Unit (Celsius or Fahrenheit): ")
+    print()
     if Unit == "C" or Unit == "c":
         F = (T * 9/5) + 32
         print(f"Temperature in Fahrenheit: {F}")
