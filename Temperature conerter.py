@@ -15,8 +15,6 @@ while Input != "exit": #!means that the loop will continue until the user types 
     else:
         print("Invalid unit. Please enter 'C' for Celsius or 'F' for Fahrenheit ")
     Input = input("Type 'exit' to quit or press Enter to continue: ")         
-    if Input == "exit":
-         break
 print(Temp)
 
 
